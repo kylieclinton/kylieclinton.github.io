@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Visualization: Making your data attractive to others"
+title:  "Making your data attractive to others"
 author: Kylie Clinton
 description: Short yet informative description
 image: "/path/to/image" or "url_to_image"
