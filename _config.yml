@@ -22,7 +22,7 @@ title: Data Science Successes
 email: kcc91600@byu.edu
 description: "Tutorials and information to make you more successful in data science." 
 baseurl: # the name of the repository 
-url: "https://kylieclinton.github.io" #  change this to "https://<your-github-username>.github.io"
+url: "https://www.kylieclinton.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://source.unsplash.com/random
 author: Kylie Clinton
 copyright: KC # Your initials or what you want the copyright to be.  Leave empty for no copyright
