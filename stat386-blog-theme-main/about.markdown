@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
-
+Kylie is a senior undergraduate student studying statistics with a data science emphasis at Brigham Young University.
