@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EDA: How to make your data look sexy
+title: Making Data Science Work For You
 email: kcc91600@byu.edu 
-description: "Change the description so that it describes your blog" 
+description: "How-tos and information about how data science can make you more successful" 
 baseurl:  # the name of the repository 
 url: "https://kylieclinton.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://source.unsplash.com/random
 author: Kylie Clinton
 copyright: KC # Your initials or what you want the copyright to be.  Leave empty for no copyright
-footer_description: ''
+footer_description: 
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
