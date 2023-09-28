@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: minima
-title: Data Science Successes:::
+title: Data Science Successes lol
 email: kcc91600@byu.edu
 description: "Tutorials and information to make you more successful in data science." 
 baseurl: # the name of the repository 
