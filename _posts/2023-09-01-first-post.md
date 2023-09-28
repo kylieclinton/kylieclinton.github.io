@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips and Tricks For Data Visualization"
 author: Kylie Clinton
-description: Short yet informative description
-image: "https://source.unsplash.com/random"
+description: "Data visualization sources, examples, and best practices"
+image: "[https://source.unsplash.com/random](https://unsplash.com/photos/a-snow-covered-mountain-with-a-pink-sky-in-the-background-fj8VUuDl1Rs)https://unsplash.com/photos/a-snow-covered-mountain-with-a-pink-sky-in-the-background-fj8VUuDl1Rs"
 --- 
 Hello World!
